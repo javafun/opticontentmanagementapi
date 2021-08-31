@@ -7,4 +7,4 @@
 3. Press `F5` to start the site with IIS express (Alternatively, you can go to VS menu `Debug -> Start Without Debugging`)
 4. Once the site is up and running, you can follow the documentation to test `Get access token`, `Create content` and `Retrieve content`
 
-Please reach out to get the documentation link :) 
+
