@@ -7,4 +7,6 @@
 3. Press `F5` to start the site with IIS express (Alternatively, you can go to VS menu `Debug -> Start Without Debugging`)
 4. Once the site is up and running, you can follow the documentation to test `Get access token`, `Create content` and `Retrieve content`
 
+## Reference
 
+[Optimizely Content Management API Developer Guide](https://world.optimizely.com/documentation/developer-guides/content-management-api/)
